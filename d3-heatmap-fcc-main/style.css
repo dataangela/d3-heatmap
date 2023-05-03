@@ -1,0 +1,19 @@
+body {
+  font-family: "Source Sans Pro", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1,
+h4 {
+  text-align: center;
+}
+
+#tooltip {
+  visibility: hidden;
+  height: auto;
+  width: auto;
+}
